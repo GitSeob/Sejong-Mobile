@@ -1,0 +1,6 @@
+semo/node_modules/
+semo/log/
+semo/yarn.lock
+semo-crawler/node_modules/
+semo-crawler/package-lock.json
+semo-crawler/log/
